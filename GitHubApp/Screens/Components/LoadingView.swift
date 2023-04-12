@@ -7,7 +7,7 @@ final class LoadingView: UIView {
         let view = UIStackView()
         view.translatesAutoresizingMaskIntoConstraints = false
         view.axis = .vertical
-        view.spacing = 166
+        view.spacing = 16
         return view
     }()
     
